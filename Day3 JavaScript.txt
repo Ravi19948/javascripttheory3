@@ -1,0 +1,51 @@
+Day3 JavaScript:
+
+Ques:-Write the Code for all Data types.
+Ans:-String	
+let a = ‘hello’;
+
+Number 
+let a =5 ;
+
+Boolean	
+let x = true;
+let y = false;
+
+undefined
+let a;
+
+null	
+let x = null;
+
+Symbol	
+let value1 = Symbol(‘val’);
+
+Object 
+let emp = { let a =10, b ='hello' }
+
+Ques:-What are the uses of JavaScript Operators?
+Ans:- Operators are used to assign values, compare values, perform arithmetic operations, and more
+
+Ques:-Explain the Assignment Operator.
+Ans:-The assignment ( = ) operator is used to assign a value to a variable or property
+
+Ques:-Explain the all Arithmetic Operators.
+Ans:-There are 6 arithmetic operator
+Addition (+) :- Adds two numbers together
+
+Subtraction (-) :- Subtracts the right number from the left.
+
+Multiplication (×) :-	Multiplies two numbers together
+
+Division (/) :-Divides the left number by the right.
+
+Remainder (sometimes called modulo)	(%):-
+Returns the remainder left over after you've divided the left number
+
+Exponent (**):-It make the power or the no .
+
+Ques:-What are the Binary Operators in js.
+Ans:-These operators require two operands for operation
+
+Ques:-Explain the Pre-Increment and Post Increment in js.
+Ans:- when we used post-increment the increment operator increments and returns the value before incrementing.  When we use pre-increment  the increment operator increments and returns the value after incrementing
